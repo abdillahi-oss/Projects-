@@ -1,0 +1,4 @@
+node_modules/
+backend/orders.json
+.env
+.DS_Store
